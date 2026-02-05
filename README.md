@@ -1,6 +1,7 @@
 # Agentic Honeypot System
 
 An AI-powered honeypot to detect scams and autonomously engage scammers to extract intelligence.
+Detailed description of problem statement is [here](problem_statement.pdf)
 
 ## Setup
 
